@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.49.6 clang-602.0.49)"
+options: "03929d016295e0b52da6e9f390b40d4f"
+inputs: 
+- "/Users/Sk/Documents/BLE-Mac-Scanner/MacAppIntro/ViewController.swift"
+- "/Users/Sk/Documents/BLE-Mac-Scanner/MacAppIntro/AppDelegate.swift"
